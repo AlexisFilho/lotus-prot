@@ -228,9 +228,7 @@ color: gold;
     border-radius: 20px;
 }
 .doncard:hover{
-    background: rgb(197, 197, 197);
     cursor: pointer;
-    box-shadow: black 0px 5px 15px;
 }
 .indon{
     margin: 0px;
